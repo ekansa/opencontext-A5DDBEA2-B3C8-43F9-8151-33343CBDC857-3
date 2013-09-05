@@ -37,7 +37,7 @@
           <oc:propid href="http://opencontext.org/properties/39DE888F-390E-416A-DB58-7A4781AC4A06">39DE888F-390E-416A-DB58-7A4781AC4A06</oc:propid>
           <oc:var_label type="nominal">Taxon</oc:var_label>
           <oc:show_val>Equus sp.</oc:show_val>
-        <oc:linkedData><oc:relationLink localType="variable" localID="CC3DD82A-EC47-4483-F8AE-8EA991FEB0F1" href="http://purl.org/NET/biol/ns#term_hasTaxonomy"><oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary><oc:label>Has Biological Taxonomy</oc:label><oc:targetLink localType="property" localID="39DE888F-390E-416A-DB58-7A4781AC4A06" localURI="http://opencontext.org/properties/39DE888F-390E-416A-DB58-7A4781AC4A06" href="http://eol.org/pages/11018612"><oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary><oc:label>Equus</oc:label></oc:targetLink></oc:relationLink></oc:linkedData></arch:property>
+        <oc:linkedData><oc:relationLink localType="variable" localID="CC3DD82A-EC47-4483-F8AE-8EA991FEB0F1" href="http://purl.org/NET/biol/ns#term_hasTaxonomy"><oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary><oc:label>Has Biological Taxonomy</oc:label><oc:targetLink localType="property" localID="39DE888F-390E-416A-DB58-7A4781AC4A06" localURI="http://opencontext.org/properties/39DE888F-390E-416A-DB58-7A4781AC4A06" href="http://eol.org/pages/15580"><oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary><oc:label>Equus</oc:label></oc:targetLink></oc:relationLink></oc:linkedData></arch:property>
         <arch:property>
           <arch:variableID>04DCC83A-81D3-4B0A-CC86-976E15E1EDCD</arch:variableID>
           <arch:valueID>340701BA-F6CC-44F1-EBB3-84282394F550</arch:valueID>
